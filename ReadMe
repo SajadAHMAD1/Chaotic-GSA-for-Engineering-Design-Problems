@@ -1,0 +1,63 @@
+
+
+This is the 'Chaotic Gravitational Search Algorithm ems' Mathlab code for Solving Mechanical and Civil Engineering design Problems.
+
+Change 'benchmark_functions.m' and 'benchmark_functions_details.m' for your own applications like solving other engineering problems 
+and numerical optimization frameworks.
+
+////
+sajad.win8@gmail.com
+\\\\
+
+
+functions:
+
+Main.m : Main function for using Chaotic GSA algorithm.
+
+CHGSA: Chaotic Gravitational Search Algorithm 
+
+GSA.m : Gravitational Search Algorithm.
+
+bbo.m  :Biogeograpgy Based Optiumization
+
+pso.m: Particle Swarm Optimization
+
+DE.m: Differential Evolution
+
+CPSOGSA: Constriction Coefficient based particle swarm optimization and Gravitational Search Algorithm
+
+GA.m: Genetic Algorithm
+
+ACO.m: Any Colony Optimization
+
+chaos.m : For getting graphs of ten chaotic maps
+
+crossover_continious : It is for calculating the cross_over rate of agents in successive generations
+
+mutation_continious: It is used for changing the diversity of agents and helps in exploitation of the candidate solutions.
+
+Geinitialization : It is utilized for exploration of the search space i.e. Diversification.
+
+RouletteWheelSelection.m : finds optimal candidate solutions.
+
+selection.m : Particulaily used in GA, for increasing local exploration rate.
+
+initialization.m : initializes the position of agents in the search space, randomly.
+
+Gfield.m : calculates the accelaration of each agent in gravitational field.
+
+move.m : updates the velocity and position of agents.
+
+massCalculation.m : calculates the mass of each agent.
+
+Gconstant.m : calculates Gravitational constant.
+
+space_bound.m : checks the search space boundaries for agents.
+
+Scatter Plot.m: Fot getting correlation between best solutions of algorithms.
+
+evaluateF.m : Evaluates the agents.
+
+benchmark_functions.m : calculates the value of cost function.
+
+benchmark_functions_details.m : gives boundaries and dimension of search space for design cost functions.
