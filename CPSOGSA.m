@@ -12,8 +12,7 @@
 %               School of Engineering and Technology
 %               Pondicherry University- 605014, India
 %               
-%            Application of Chaotic Gravitational Search Algorithm for Solving Mechanical and Civil Engineering Design Problems (August-2019)
-%                                    King Saud Journal of Engineering Sciences (Elsevier)
+
 %   Programmer: Sajad Ahmad Rather      
 %   Developed in MATLAB R2013a 
 
@@ -87,7 +86,7 @@ force=zeros(dim,n);
 % C2=1.5; %C2 in Equation (9)
 
 %%main loop
-iter = 0 ;                  % Iterations’ counter
+iter = 0 ;                  % Iterationsâ€™ counter
 while  ( iter < iteration )
 
 G=G0*exp(-23*iter/iteration); %Equation (4)
