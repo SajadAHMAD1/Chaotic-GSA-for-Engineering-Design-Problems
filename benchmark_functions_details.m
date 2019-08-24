@@ -11,8 +11,6 @@
 %               School of Engineering and Technology
 %               Pondicherry University- 605014, India
 %               
-%            Application of Chaotic Gravitational Search Algorithm for Solving Mechanical and Civil Engineering Design Problems (July-2019)
-%                                    King Saud Journal of Engineering Sciences (Elsevier)
 %   Programmer: Sajad Ahmad Rather      
 %   Developed in MATLAB R2013a 
 
