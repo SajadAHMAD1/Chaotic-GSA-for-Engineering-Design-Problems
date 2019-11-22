@@ -24,6 +24,14 @@ pso.m: Particle Swarm Optimization
 
 DE.m: Differential Evolution
 
+GWO.m: Grey Wolf Optimizer
+
+SCA.m: Sine Cosine Algorithm
+
+SSA.m: Salp Swarm Algorithm
+
+PSOGSA.m: Particle Swarm Optimization and Gravittaional Search Algorithm
+
 CPSOGSA: Constriction Coefficient based particle swarm optimization and Gravitational Search Algorithm
 
 GA.m: Genetic Algorithm
@@ -37,6 +45,12 @@ crossover_continious : It is for calculating the cross_over rate of agents in su
 mutation_continious: It is used for changing the diversity of agents and helps in exploitation of the candidate solutions.
 
 Geinitialization : It is utilized for exploration of the search space i.e. Diversification.
+
+initializationGWO: Randomized initialization of GWO searcher agents.
+
+initializationSCA: Initialization of SCA agents.
+
+initializationSSA: Initialization of SSA optimization algorithm searcher agents for randomization.
 
 RouletteWheelSelection.m : finds optimal candidate solutions.
 
