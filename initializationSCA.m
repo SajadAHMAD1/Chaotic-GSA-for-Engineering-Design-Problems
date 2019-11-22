@@ -1,19 +1,4 @@
-%  Sine Cosine Algorithm (SCA)  
-%
-%  Source codes demo version 1.0                                                                      
-%                                                                                                     
-%  Developed in MATLAB R2011b(7.13)                                                                   
-%                                                                                                     
-%  Author and programmer: Seyedali Mirjalili                                                          
-%                                                                                                     
-%         e-Mail: ali.mirjalili@gmail.com                                                             
-%                 seyedali.mirjalili@griffithuni.edu.au                                               
-%                                                                                                     
-%       Homepage: http://www.alimirjalili.com                                                         
-%                                                                                                     
-%  Main paper:                                                                                        
-%  S. Mirjalili, SCA: A Sine Cosine Algorithm for solving optimization problems
-%  Knowledge-Based Systems, DOI: http://dx.doi.org/10.1016/j.knosys.2015.12.022
+
 
 % This function creates the first random population of moths
 
