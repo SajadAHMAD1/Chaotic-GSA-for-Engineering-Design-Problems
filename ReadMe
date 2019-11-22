@@ -1,6 +1,6 @@
 
 
-This is the 'Chaotic Gravitational Search Algorithm ems' Mathlab code for Solving Mechanical and Civil Engineering design Problems.
+This is the 'Chaotic Gravitational Search Algorithm' Mathlab code for Solving  Engineering design Benchmarks.
 
 Change 'benchmark_functions.m' and 'benchmark_functions_details.m' for your own applications like solving other engineering problems 
 and numerical optimization frameworks.
